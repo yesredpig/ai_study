@@ -1,4 +1,3 @@
-}
 # AI 입문 교육
 
 🇰🇷 한국어 | 🇺🇸 [English](README.md)

@@ -41,8 +41,7 @@
 - Gradient Descent
 - Overfitting
 
-📒 Notebook: session1.ipynb
-
+📒 Notebook: [GitHub](sessions/session1.ipynb) | [Colab](https://colab.research.google.com/github/yesredpig/ai_study/blob/main/session1.ipynb)
 ---
 
 ### Session 2. Transformer

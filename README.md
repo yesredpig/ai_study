@@ -1,7 +1,7 @@
 
 # AI Introduction Course
 
-🇰🇷 한국어 | 🇺🇸 English
+🇰🇷 [한국어](README_ko.md) | 🇺🇸 English
 
 Hands-on introduction to modern AI systems, from Machine Learning fundamentals to Large Language Models and efficient inference systems.
 

@@ -24,7 +24,7 @@ Hands-on introduction to modern AI systems, from Machine Learning fundamentals t
 - Gradient Descent
 - Overfitting
 
-📒 Notebook: session1.ipynb
+📒 Notebook: [GitHub](sessions/session1.ipynb) | [Open in Colab](https://colab.research.google.com/github/yesredpig/ai_study/blob/main/sessions/session1.ipynb)
 
 ### Session 2. Transformer
 - Attention

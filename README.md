@@ -32,6 +32,8 @@ Hands-on introduction to modern AI systems, from Machine Learning fundamentals t
 - RoPE
 - Transformer Block
 - KV Cache
+- 📒 Notebook: [GitHub](sessions/session2_transformer.ipynb) | [Open in Colab](https://colab.research.google.com/github/yesredpig/ai_study/blob/main/sessions/session2_transformer.ipynb)
+
 
 ### Session 3. LLM Evolution
 - GPT Series

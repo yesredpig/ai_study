@@ -41,7 +41,7 @@ Hands-on introduction to modern AI systems, from Machine Learning fundamentals t
 - Gemma
 - Qwen
 - DeepSeek
-- 📒 Notebook: [GitHub](sessions/session3_llm_evolution.ipynb) | [Open in Colab](https://colab.research.google.com/github/yesredpig/ai_study/blob/main/sessions/session3_llm_evolution.ipynb)
+- 📒 Notebook: [GitHub](sessions/session3_llm_evolutions.ipynb) | [Open in Colab](https://colab.research.google.com/github/yesredpig/ai_study/blob/main/sessions/session3_llm_evolutions.ipynb)
 
 
 ### Session 4. Foundation Models
